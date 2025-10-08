@@ -106,8 +106,8 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-425" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;用户体验评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1714" y="2612" width="217" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="QKh-hJxIAsNiQ-zjVfry-427" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1947.5" y="360.5" width="47" height="31" as="geometry" />
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-427" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;研究内容&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1943" y="374" width="158" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
