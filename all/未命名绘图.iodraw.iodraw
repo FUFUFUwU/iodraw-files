@@ -43,7 +43,7 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-400" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;设计网页&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;整体架构与交互逻辑&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1977.5" y="1243" width="217" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QKh-hJxIAsNiQ-zjVfry-401" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;个性化教学&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;因材施教&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-401" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;完成网页UI&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;原型设计与功能规划&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1714" y="1243" width="217" height="60" as="geometry" />
         </mxCell>
       </root>
