@@ -26,10 +26,10 @@
           <mxGeometry x="-2238" y="814" width="217" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-395" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;跨学科教学&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;班级管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1977.5" y="814" width="217" height="60" as="geometry" />
+          <mxGeometry x="-1977.5" y="814" width="217" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-396" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;个性化教学&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;因材施教&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1714" y="814" width="217" height="60" as="geometry" />
+          <mxGeometry x="-1714" y="814" width="217" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-408" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="QKh-hJxIAsNiQ-zjVfry-397" target="QKh-hJxIAsNiQ-zjVfry-403">
           <mxGeometry relative="1" as="geometry" />
