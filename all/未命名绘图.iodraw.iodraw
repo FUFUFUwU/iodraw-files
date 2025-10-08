@@ -55,8 +55,8 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-404" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;智能体设计与知识库构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2120.5" y="1414" width="503" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QKh-hJxIAsNiQ-zjVfry-405" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;跨学科教学智能体构建&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;核心素养+优秀案例 知识库建设&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Prompt编写&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2254" y="1516" width="319" height="131" as="geometry" />
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-405" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;跨学科教学智能体构建&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;知识库建设&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Prompt编写&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2254" y="1516" width="319" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-406" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;设计网页&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;整体架构与交互逻辑&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1977.5" y="1554" width="217" height="60" as="geometry" />
