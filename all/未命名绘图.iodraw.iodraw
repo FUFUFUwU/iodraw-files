@@ -73,7 +73,7 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-411" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;跨学科教学智能体、班级管理智能体、因材施教智能体&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;个性化知识库建设（优秀跨学科教学案例，班级管理解决策略，个性化针对策略）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;Prompt编写，工作流搭建&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2238" y="1881" width="748" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="QKh-hJxIAsNiQ-zjVfry-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QKh-hJxIAsNiQ-zjVfry-415" target="QKh-hJxIAsNiQ-zjVfry-421">
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="QKh-hJxIAsNiQ-zjVfry-415" target="QKh-hJxIAsNiQ-zjVfry-421">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-415" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
