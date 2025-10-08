@@ -61,6 +61,9 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-405" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;HTML+CSS+JavaScript&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;静态页面框架搭建+网页交互功能实现&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2238" y="1533" width="748" height="72" as="geometry" />
         </mxCell>
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-420" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="QKh-hJxIAsNiQ-zjVfry-409" target="QKh-hJxIAsNiQ-zjVfry-415">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-409" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-2272" y="1722" width="806" height="289" as="geometry" />
         </mxCell>
