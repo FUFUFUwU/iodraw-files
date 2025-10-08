@@ -145,8 +145,8 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-442" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;完成网页前端设计&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;完成网页基础功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1257" y="1429" width="318" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="QKh-hJxIAsNiQ-zjVfry-443" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;完成网页前端设计&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;完成网页基础功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1253" y="1785.5" width="318" height="162" as="geometry" />
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-443" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;完成智能体开发&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;实现知识检索，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;任务推理与内容生成等功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1253" y="1785.5" width="318" height="179.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
