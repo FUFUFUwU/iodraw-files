@@ -100,7 +100,7 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-423" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;功能测试&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;优化Prompt与网页CSS&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2238" y="2612" width="217" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="QKh-hJxIAsNiQ-zjVfry-424" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;前后端数据&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;交互数据传输实现&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-424" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;服务器部署上线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1977.5" y="2612" width="217" height="73" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-425" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;对话窗口&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;结果可视化展示&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
