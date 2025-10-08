@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TErLFDrS7vy0ebNwmTQw">
-    <mxGraphModel dx="3754" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4136" dy="817" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-439" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;明确研究问题&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;确认现存的痛点问题&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1257" y="696" width="318" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-440" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;明确研究问题&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;确认现存的痛点问题&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1257" y="1078.5" width="318" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
