@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TErLFDrS7vy0ebNwmTQw">
-    <mxGraphModel dx="4627" dy="1362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3271" dy="533" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,10 +41,10 @@
           <mxGeometry x="-2120.5" y="1055" width="503" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-399" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;确定三大智能体&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;功能定位与知识库需求&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2238" y="1195" width="217" height="60" as="geometry" />
+          <mxGeometry x="-2238" y="1195" width="217" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-400" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;设计网页&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;整体架构与交互逻辑&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1977.5" y="1195" width="217" height="60" as="geometry" />
+          <mxGeometry x="-1977.5" y="1195" width="217" height="73" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-401" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;完成网页UI&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;原型设计与功能规划&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1714" y="1195" width="217" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="-2120.5" y="1414" width="503" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-405" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;跨学科教学智能体构建&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;核心素养+优秀案例 知识库建设&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Prompt编写&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2241" y="1524" width="217" height="131" as="geometry" />
+          <mxGeometry x="-2326" y="1755" width="217" height="131" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-406" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;设计网页&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;整体架构与交互逻辑&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1977.5" y="1554" width="217" height="60" as="geometry" />
