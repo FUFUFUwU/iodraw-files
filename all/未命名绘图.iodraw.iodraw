@@ -49,6 +49,9 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-401" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;完成网页UI&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;原型设计与功能规划&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1714" y="1195" width="217" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-414" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QKh-hJxIAsNiQ-zjVfry-403" target="QKh-hJxIAsNiQ-zjVfry-409">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-403" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-2272" y="1374" width="806" height="289" as="geometry" />
         </mxCell>
