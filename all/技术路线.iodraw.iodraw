@@ -142,6 +142,9 @@
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-441" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;确认平台功能与框架&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;设计友好的交互UI&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1253" y="1078.5" width="318" height="162" as="geometry" />
         </mxCell>
+        <mxCell id="QKh-hJxIAsNiQ-zjVfry-442" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;确认平台功能与框架&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;设计友好的交互UI&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1257" y="1429" width="318" height="162" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
