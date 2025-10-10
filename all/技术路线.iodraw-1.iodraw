@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TErLFDrS7vy0ebNwmTQw">
-    <mxGraphModel dx="4470" dy="1022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6808" dy="2452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,46 +59,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-409" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-2272" y="1722" width="806" height="289" as="geometry" />
+          <mxGeometry x="-1286" y="1549" width="806" height="289" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-410" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;智能体设计与知识库构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-2120.5" y="1762" width="503" height="90" as="geometry" />
+          <mxGeometry x="-1134.5" y="1589" width="503" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-411" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;跨学科教学智能体、班级管理智能体、因材施教智能体&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;个性化知识库建设（优秀跨学科教学案例，班级管理解决策略，个性化针对策略）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;Prompt编写，工作流搭建&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2238" y="1881" width="748" height="110" as="geometry" />
+          <mxGeometry x="-1252" y="1708" width="748" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="QKh-hJxIAsNiQ-zjVfry-415" target="QKh-hJxIAsNiQ-zjVfry-421" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-415" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-2272" y="2073" width="806" height="289" as="geometry" />
+          <mxGeometry x="-1286" y="1900" width="806" height="289" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-416" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;智能体API接入与系统集成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-2120.5" y="2113" width="503" height="90" as="geometry" />
+          <mxGeometry x="-1134.5" y="1940" width="503" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-417" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Dify API&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;接口调试与接入实现&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2238" y="2253" width="217" height="74" as="geometry" />
+          <mxGeometry x="-1252" y="2080" width="217" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-418" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;前后端数据&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;交互数据传输实现&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1977.5" y="2253" width="217" height="73" as="geometry" />
+          <mxGeometry x="-991.5" y="2080" width="217" height="73" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-419" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;对话窗口&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;结果可视化展示&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1714" y="2253" width="217" height="73" as="geometry" />
+          <mxGeometry x="-728" y="2080" width="217" height="73" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-421" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-2272" y="2432" width="806" height="289" as="geometry" />
+          <mxGeometry x="-1286" y="2259" width="806" height="289" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-422" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;功能测试、优化与上线&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-2120.5" y="2472" width="503" height="90" as="geometry" />
+          <mxGeometry x="-1134.5" y="2299" width="503" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-423" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;功能测试&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;优化Prompt与网页CSS&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2238" y="2612" width="217" height="74" as="geometry" />
+          <mxGeometry x="-1252" y="2439" width="217" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-424" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;服务器部署上线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1977.5" y="2612" width="217" height="73" as="geometry" />
+          <mxGeometry x="-991.5" y="2439" width="217" height="73" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-425" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;用户体验评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1714" y="2612" width="217" height="73" as="geometry" />
+          <mxGeometry x="-728" y="2439" width="217" height="73" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-427" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;研究内容&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1943" y="374" width="158" height="54" as="geometry" />
@@ -119,13 +119,13 @@
           <mxGeometry x="-2768" y="1436" width="318" height="162" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-443" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;完成智能体开发&lt;/font&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;实现知识检索，&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;任务推理与内容生成&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;等功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1244" y="1785.5" width="318" height="162" as="geometry" />
+          <mxGeometry x="-258" y="1612.5" width="318" height="162" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-445" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;实现智能体与前端动态交互&lt;/font&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;形成完整的功能系统&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1257" y="2136.5" width="318" height="162" as="geometry" />
+          <mxGeometry x="-271" y="1963.5" width="318" height="162" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-446" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;完成平台上线部署&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;实现应用推广&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1257" y="2482" width="318" height="162" as="geometry" />
+          <mxGeometry x="-271" y="2309" width="318" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
