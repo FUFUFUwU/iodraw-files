@@ -116,10 +116,10 @@
           <mxGeometry x="-2768" y="696" width="318" height="162" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-441" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;确认平台功能与框架&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;设计友好的交互UI&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1253" y="1078.5" width="318" height="162" as="geometry" />
+          <mxGeometry x="-2768" y="1078.5" width="318" height="162" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-442" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;完成网页前端设计&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;完成网页基础功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1253" y="1437.5" width="318" height="162" as="geometry" />
+          <mxGeometry x="-2768" y="1436" width="318" height="162" as="geometry" />
         </mxCell>
         <mxCell id="QKh-hJxIAsNiQ-zjVfry-443" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;完成智能体开发&lt;/font&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;实现知识检索，&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;任务推理与内容生成&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;等功能&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1244" y="1785.5" width="318" height="162" as="geometry" />
